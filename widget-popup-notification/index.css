@@ -1,0 +1,24 @@
+/* BEGIN POPUP NOTIFICATION */
+
+.popup-notific {
+    background: #053f6d;
+    position: absolute;
+    right: 20px;
+    top: 20vh;
+    padding: 0 10px;
+    border-radius: 10px;
+    display: none;
+}
+
+.popup-notific p {
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.popup-notific-price, .popup-notific-name, .popup-notific-device {
+    font-weight: bold;
+}
+
+/* END POPUP NOTIFICATION */
